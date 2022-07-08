@@ -1,3 +1,5 @@
+//Hi Zaid, Savin here...
+
 import java.util.Scanner;
 
 public class ArrayElement {
