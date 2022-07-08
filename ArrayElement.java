@@ -29,7 +29,7 @@ public class ArrayElement {
 		}
 		finally
 		{
-			System.out.println("completed");
+			System.out.println("completed");// haa bhai haa
 		}
 
 	}
